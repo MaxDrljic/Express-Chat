@@ -12,5 +12,7 @@ SETUP :
 
 4. Fire `npm start` command.
 
+5. Open localhost:4000 in your browser. You can change the localhost port in `index.js`.
+
 
 Enjoy and have fun!
